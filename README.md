@@ -1,3 +1,1 @@
 ![img](splash.png)
-
-computer
